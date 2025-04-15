@@ -1,0 +1,35 @@
+Quiero que generes una página web profesional y estética para una empresa llamada **Private Classes**, que ofrece servicios de tutorías presenciales y en línea para materias escolares, colegiales y universitarias, así como asesoramiento en trabajos académicos y proyectos extracurriculares.
+
+La estructura general del sitio web debe ser clara, limpia y moderna, con buena tipografía, espaciado adecuado, colores armónicos (puede ser fondo blanco o claro con detalles en azul oscuro o verde profesional), e íconos cuando sea necesario.
+
+🔹 La **página principal** debe incluir:
+- Un encabezado superior con el logo (puede dejar un espacio con texto "LOGO AQUÍ").
+- Un menú superior a la derecha con 5 botones principales:
+  1. Inicio
+  2. Contactos
+  3. Comentarios
+  4. Información Adicional
+  5. Educación
+
+✅ Cada botón debe redirigir correctamente a su respectiva sección, sin errores ni rutas rotas.
+
+🔹 Secciones principales dentro del sitio:
+1. **Inicio**: breve presentación de la empresa "Private Classes", qué ofrece, su enfoque personalizado, y los beneficios de las tutorías. Añade imágenes representativas (usa imágenes libres o genera marcadores).
+2. **Comentarios**: una sección para mostrar reseñas reales de clientes satisfechos. Usa tarjetas o bloques elegantes para visualizarlas.
+3. **Información Adicional**: aquí se describe más sobre el propósito del sitio, la metodología usada, o los valores de la empresa.
+4. **Acerca de Nosotros**: historia de la empresa, su equipo, misión y visión.
+5. **Contactos (footer)**: al final de la página debe haber un pie de página con:
+   - Teléfonos de contacto
+   - Link directo a WhatsApp
+   - Email institucional
+   - Dirección física (opcional)
+   - Iconos de redes sociales (aunque no funcionen, deben estar con diseño)
+
+🧠 Además:
+- Asegúrate de que **todas las rutas estén bien enlazadas**. No debe haber ningún botón que lleve a una página rota.
+- Implementa **revisión automática de errores de rutas** o redirecciones para prevenir fallos comunes al navegar.
+- Añade comentarios en el código para facilitar posibles ediciones posteriores.
+- Toda la página debe estar optimizada para dispositivos móviles y escritorio (responsive design).
+- Usa buenas prácticas HTML5, CSS moderno (Flexbox, Grid si es necesario), y JavaScript para interacción básica si se requiere.
+
+Por favor crea todos los archivos necesarios (.html, .css y .js si aplica) en carpetas organizadas (`/pages`, `/css`, `/js`, `/assets` si hay imágenes). Deja el código limpio y funcional para que yo tenga que corregir lo menos posible en Replit. Gracias.
